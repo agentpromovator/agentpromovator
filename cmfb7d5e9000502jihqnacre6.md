@@ -3,6 +3,7 @@ title: "De ce fiecare companie are nevoie de audit seo in 2025"
 datePublished: Mon Sep 08 2025 14:14:03 GMT+0000 (Coordinated Universal Time)
 cuid: cmfb7d5e9000502jihqnacre6
 slug: audit-seo-in-2025
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757340882567/e3a33331-f0b2-4751-b5a3-5dbd81d6a7ea.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1757340810909/bdb5c88e-2625-4dfb-a9de-c1f54adacff8.webp
 tags: audit, seo-services, audit-services, seo-audit, mario-grigorescu, agent-promovator, servicii-seo, consultant-marketing, consultant-in-marketing, consultant-in-marketing-online
 
